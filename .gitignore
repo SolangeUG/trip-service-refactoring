@@ -1,0 +1,15 @@
+# IntelliJ project files
+*.iml
+.idea/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+out/
+
+# Binaries
+*.jar
+*.class
